@@ -2,4 +2,4 @@ git rm -r --cached .
 
 git add .
 git commit -m ".gitignore fix"
-git push origin <branch_name>
+git push origin main
